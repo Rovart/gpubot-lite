@@ -1,0 +1,530 @@
+{
+  "notify": true,
+  "purchase": false,
+  "saveLogs": false,
+  "categories": [
+    {
+      "name": "[PCCOMPONENTES] Outlet GPUs",
+      "url": "https://www.pccomponentes.com/outlet/ajax?idFamilies[]=6",
+      "checkPages": 1,
+      "articles": [
+        {
+          "model": ["2060", "super"],
+          "maxPrice": 320
+        },
+        {
+          "model": ["2070"],
+          "maxPrice": 350
+        },
+        {
+          "model": ["2070", "super"],
+          "maxPrice": 400
+        },
+        {
+          "model": ["1660", "super"],
+          "maxPrice": 380
+        },
+        {
+          "model": ["1660", "ti"],
+          "maxPrice": 380
+        },
+        {
+          "model": ["2070super"],
+          "maxPrice": 400
+        },
+        {
+          "model": ["1660super"],
+          "maxPrice": 380
+        },
+        {
+          "model": ["1660ti"],
+          "maxPrice": 380
+        },
+        {
+          "model": ["3060"],
+          "maxPrice": 455
+        },
+        {
+          "model": ["6600"],
+          "maxPrice": 430
+        },
+        {
+          "model": ["6600","xt"],
+          "maxPrice": 530
+        },
+        {
+          "model": ["6600xt"],
+          "maxPrice": 530
+        },
+        {
+          "model": ["3060", "ti"],
+          "maxPrice": 550
+        },
+        {
+          "model": ["3070", "ti"],
+          "maxPrice": 800
+        },
+        {
+          "model": ["3060ti"],
+          "maxPrice": 550
+        },
+        {
+          "model": ["3070ti"],
+          "maxPrice": 800
+        },
+        {
+          "model": ["3080"],
+          "maxPrice": 900
+        },
+        {
+          "model": ["3070"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["6700","xt"],
+          "maxPrice": 570
+        },
+        {
+          "model": ["6700xt"],
+          "maxPrice": 570
+        }
+      ]
+    },
+    {
+      "name": "[PCCOMPONENTES] GPUs",
+      "url": "https://www.pccomponentes.com/listado/ajax?idFamilies[]=6",
+      "checkPages": 8,
+      "exclude": ["reacondicionado"],
+      "articles": [
+        {
+          "model": ["2060", "super"],
+          "maxPrice": 440
+        },
+        {
+          "model": ["2070"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["6600","xt"],
+          "maxPrice": 550
+        },
+        {
+          "model": ["6600xt"],
+          "maxPrice": 550
+        },
+        {
+          "model": ["6600"],
+          "maxPrice": 480
+        },
+        {
+          "model": ["2070", "super"],
+          "maxPrice": 470
+        },
+        {
+          "model": ["1660", "super"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["1660", "ti"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["2070super"],
+          "maxPrice": 470
+        },
+        {
+          "model": ["1660super"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["1660ti"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["3060"],
+          "maxPrice": 500
+        },
+        {
+          "model": ["3060", "ti"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["3070", "ti"],
+          "maxPrice": 900
+        },
+        {
+          "model": ["3060ti"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["3070ti"],
+          "maxPrice": 900
+        },
+        {
+          "model": ["3080"],
+          "maxPrice": 1000
+        },
+        {
+          "model": ["3070"],
+          "maxPrice": 750
+        },
+        {
+          "model": ["6700","xt"],
+          "maxPrice": 650
+        }
+      ]
+    },
+    {
+      "name": "[COOLMOD] GPUs",
+      "url": "https://www.coolmod.com/tarjetas-graficas/",
+      "checkPages": 0,
+      "articles": [
+        {
+          "model": ["2060", "super"],
+          "maxPrice": 440
+        },
+        {
+          "model": ["2070"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["6600","xt"],
+          "maxPrice": 550
+        },
+        {
+          "model": ["6700","xt"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["6600xt"],
+          "maxPrice": 550
+        },
+        {
+          "model": ["6700xt"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["6600"],
+          "maxPrice": 480
+        },
+        {
+          "model": ["2070", "super"],
+          "maxPrice": 470
+        },
+        {
+          "model": ["1660", "super"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["1660", "ti"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["2070super"],
+          "maxPrice": 470
+        },
+        {
+          "model": ["1660super"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["1660ti"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["3060"],
+          "maxPrice": 550
+        },
+        {
+          "model": ["3060", "ti"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["3070", "ti"],
+          "maxPrice": 900
+        },
+        {
+          "model": ["3060ti"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["3070ti"],
+          "maxPrice": 900
+        },
+        {
+          "model": ["3080"],
+          "maxPrice": 1000
+        },
+        {
+          "model": ["3070"],
+          "maxPrice": 750
+        }
+      ]
+    },
+    {
+      "name": "[COOLMOD] Outlet GPUs",
+      "url": "https://www.coolmod.com/reacondicionado/",
+      "checkPages": 0,
+      "articles": [
+        {
+          "model": ["2060", "super"],
+          "maxPrice": 320
+        },
+        {
+          "model": ["2070"],
+          "maxPrice": 350
+        },
+        {
+          "model": ["2070", "super"],
+          "maxPrice": 400
+        },
+        {
+          "model": ["1660", "super"],
+          "maxPrice": 380
+        },
+        {
+          "model": ["1660", "ti"],
+          "maxPrice": 380
+        },
+        {
+          "model": ["2070super"],
+          "maxPrice": 400
+        },
+        {
+          "model": ["1660super"],
+          "maxPrice": 380
+        },
+        {
+          "model": ["1660ti"],
+          "maxPrice": 380
+        },
+        {
+          "model": ["3060"],
+          "maxPrice": 455
+        },
+        {
+          "model": ["6600"],
+          "maxPrice": 430
+        },
+        {
+          "model": ["6600","xt"],
+          "maxPrice": 530
+        },
+        {
+          "model": ["6600xt"],
+          "maxPrice": 530
+        },
+        {
+          "model": ["3060", "ti"],
+          "maxPrice": 550
+        },
+        {
+          "model": ["3070", "ti"],
+          "maxPrice": 800
+        },
+        {
+          "model": ["3060ti"],
+          "maxPrice": 550
+        },
+        {
+          "model": ["3070ti"],
+          "maxPrice": 800
+        },
+        {
+          "model": ["3080"],
+          "maxPrice": 900
+        },
+        {
+          "model": ["3070"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["6700","xt"],
+          "maxPrice": 570
+        },
+        {
+          "model": ["6700xt"],
+          "maxPrice": 570
+        }
+      ]
+    },
+    {
+      "name": "[LDLC] GPUs",
+      "url": "https://www.ldlc.com/es-es/informatica/piezas-de-informatica/tarjeta-grafica/c4684/+fdi-1.html?sort=1",
+      "checkPages": 0,
+      "minUpdateSeconds": 60,
+      "maxUpdateSeconds": 120,
+      "articles": [
+        {
+          "model": ["2060", "super"],
+          "maxPrice": 440
+        },
+        {
+          "model": ["2070"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["6600","xt"],
+          "maxPrice": 550
+        },
+        {
+          "model": ["6700","xt"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["6600xt"],
+          "maxPrice": 550
+        },
+        {
+          "model": ["6700xt"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["6600"],
+          "maxPrice": 480
+        },
+        {
+          "model": ["2070", "super"],
+          "maxPrice": 470
+        },
+        {
+          "model": ["1660", "super"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["1660", "ti"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["2070super"],
+          "maxPrice": 470
+        },
+        {
+          "model": ["1660super"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["1660ti"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["3060"],
+          "maxPrice": 550
+        },
+        {
+          "model": ["3060", "ti"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["3070", "ti"],
+          "maxPrice": 900
+        },
+        {
+          "model": ["3060ti"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["3070ti"],
+          "maxPrice": 900
+        },
+        {
+          "model": ["3080"],
+          "maxPrice": 1000
+        },
+        {
+          "model": ["3070"],
+          "maxPrice": 750
+        }
+      ]
+    },
+    {
+      "name": "[XTREMMEDIA] GPUs",
+      "url": "https://xtremmedia.com/?q=product/search/familia/64/sordenacion/pasc/sdispo/on/sprecio/12100000000/feature/1/nview/100",
+      "checkPages": 0,
+      "minUpdateSeconds": 60,
+      "maxUpdateSeconds": 120,
+      "articles": [
+        {
+          "model": ["2060", "super"],
+          "maxPrice": 440
+        },
+        {
+          "model": ["2070"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["6600","xt"],
+          "maxPrice": 550
+        },
+        {
+          "model": ["6700","xt"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["6600xt"],
+          "maxPrice": 550
+        },
+        {
+          "model": ["6700xt"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["6600"],
+          "maxPrice": 480
+        },
+        {
+          "model": ["2070", "super"],
+          "maxPrice": 470
+        },
+        {
+          "model": ["1660", "super"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["1660", "ti"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["2070super"],
+          "maxPrice": 470
+        },
+        {
+          "model": ["1660super"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["1660ti"],
+          "maxPrice": 450
+        },
+        {
+          "model": ["3060"],
+          "maxPrice": 550
+        },
+        {
+          "model": ["3060", "ti"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["3070", "ti"],
+          "maxPrice": 900
+        },
+        {
+          "model": ["3060ti"],
+          "maxPrice": 650
+        },
+        {
+          "model": ["3070ti"],
+          "maxPrice": 900
+        },
+        {
+          "model": ["3080"],
+          "maxPrice": 1000
+        },
+        {
+          "model": ["3070"],
+          "maxPrice": 750
+        }
+      ]
+    }
+  ]
+}

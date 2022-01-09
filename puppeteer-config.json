@@ -1,0 +1,26 @@
+{
+  "debug": false,
+  "plugins": false,
+  "browserOptions": {
+    "headless": {
+      "headless": true,
+      "defaultViewport": null,
+      "timeout": 16000,
+      "args": [
+        "--no-sandbox",
+        "--disable-setuid-sandbox",
+        "--disable-infobars",
+        "--ignore-certifcate-errors",
+        "--ignore-certifcate-errors-spki-list",
+        "--disable-web-security"
+      ]
+    },
+    "debug": {
+      "headless": false,
+      "args": ["--start-maximized"],
+      "defaultViewport": null,
+      "ignoreHTTPSErrors": "true",
+      "timeout": 16000
+    }
+  }
+}
