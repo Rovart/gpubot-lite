@@ -11,6 +11,16 @@ Auto-buy a GPU you want once reaches the price you desire!
 
 > ⚠️ Disclaimer: Please note that this is a research project. I am by no means responsible for any usage of this tool. Use it on your behalf.
 
+## Other stores available:
+
+- PcComponentes
+- LDLC
+- XTREMMEDIA
+
+To receive alarms for these stores join to my telegram channel, please make sure to own Bitcoin over Lightning Network as there is an entry fee.
+
+https://t.me/+25dIS4KhRKU3MzY8
+
 ## Requirements
 
 You will need Node.js and a node global package installed in your environement. Yarn is recommended as a package manager and script runner over npm.
