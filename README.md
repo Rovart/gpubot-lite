@@ -78,6 +78,7 @@ Edit the `config.json` file with your user and password settings (if you want to
 
 Edit `articles.json` to configure GPU prices and enable the `purchase` fields on the GPUs you want.
 
+> ⚠️ Warning: Please notice there are two lists at `articles.json`. First array has usual GPU prices while second array has Outlet GPU prices.
 
 ## Running the project
 
