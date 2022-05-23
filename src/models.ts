@@ -36,6 +36,7 @@ export class CategoryConfig {
   checkPages = 3; // Number of pages to check for this category (each page has 24 articles)
   openOnBrowser = false; // Open new matches in the default browser
   purchaseMultiple = false; // Allow multiple purchases in the category
+  article_list_id!: number; // Link to an article list
   purchase = true; // Boolean to disable this category purchase (overrides the article "purchase" values)
   maxPrice?: number; // Optional maximum price for all articles of the category
   exclude: string[] = []; // Optional array of strings that should NOT be present in the title of any article of the category

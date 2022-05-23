@@ -6,9 +6,11 @@ import AdblockerPlugin from "puppeteer-extra-plugin-adblocker";
 import StealthPlugin from "puppeteer-extra-plugin-stealth";
 import { Service } from "typedi";
 import config from "../config.json";
+import articles from "../articles.json";
 import puppeteerConfig from "../puppeteer-config.json";
 import ArticleTracker from "./article-tracker";
-import { BotConfig } from "./models";
+import { BotConfig, ArticleConfig } from "./models";
+import NotifyService from "./services/notify.service";
 import ShutdownService from "./services/shutdown.service";
 import Log from "./utils/log";
 
@@ -27,6 +29,16 @@ export default class Bot {
   ) {
     this.botConfig = plainToClass(BotConfig, config);
 
+    for(let i in this.botConfig.categories){
+      let index: number = this.botConfig.categories[i].article_list_id;
+      this.botConfig.categories[i].articles = [];
+      if(typeof articles[index] == "undefined"){
+        console.log("!!! THERE WAS A CRITICAL ERROR DEFINING ARTICLE LISTS IDs !!!");
+        process.exit();
+      }
+      let article_list = plainToClass(ArticleConfig, articles[index]);
+      this.botConfig.categories[i].articles = article_list;
+    }
     if (this.plugins) {
       // Setup puppeteer plugins (only once, do not put this in the prepareBrowser method!)
       puppeteer.use(StealthPlugin());

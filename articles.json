@@ -1,0 +1,286 @@
+[
+  [
+    {
+      "model": ["3090"],
+      "maxPrice": 1600,
+      "purchase": false
+    },
+    {
+      "model": ["3090ti"],
+      "maxPrice": 1999,
+      "purchase": false
+    },
+    {
+      "model": ["3090","ti"],
+      "maxPrice": 1999,
+      "purchase": false
+    },
+    {
+      "model": ["3050"],
+      "maxPrice": 300,
+      "purchase": false
+    },
+    {
+      "model": ["6600","xt"],
+      "maxPrice": 430,
+      "purchase": false
+    },
+    {
+      "model": ["6650","xt"],
+      "maxPrice": 450,
+      "purchase": false
+    },
+    {
+      "model": ["6750","xt"],
+      "maxPrice": 620,
+      "purchase": false
+    },
+    {
+      "model": ["6950","xt"],
+      "maxPrice": 1100,
+      "purchase": false
+    },
+    {
+      "model": ["6700","xt"],
+      "maxPrice": 600,
+      "purchase": false
+    },
+    {
+      "model": ["6600xt"],
+      "maxPrice": 430,
+      "purchase": false
+    },
+    {
+      "model": ["6650xt"],
+      "maxPrice": 450,
+      "purchase": false
+    },
+    {
+      "model": ["6750xt"],
+      "maxPrice": 620,
+      "purchase": false
+    },
+    {
+      "model": ["6950xt"],
+      "maxPrice": 1100,
+      "purchase": false
+    },
+    {
+      "model": ["6700xt"],
+      "maxPrice": 600,
+      "purchase": false
+    },
+    {
+      "model": ["6600"],
+      "maxPrice": 360,
+      "purchase": false
+    },
+    {
+      "model": ["1660", "super"],
+      "maxPrice": 300,
+      "purchase": false
+    },
+    {
+      "model": ["1660", "ti"],
+      "maxPrice": 300,
+      "purchase": false
+    },
+    {
+      "model": ["1660super"],
+      "maxPrice": 300,
+      "purchase": false
+    },
+    {
+      "model": ["1660ti"],
+      "maxPrice": 300,
+      "purchase": false
+    },
+    {
+      "model": ["3060"],
+      "maxPrice": 440,
+      "purchase": false
+    },
+    {
+      "model": ["3060", "ti"],
+      "maxPrice": 565,
+      "purchase": false
+    },
+    {
+      "model": ["3070", "ti"],
+      "maxPrice": 775,
+      "purchase": false
+    },
+    {
+      "model": ["3060ti"],
+      "maxPrice": 565,
+      "purchase": false
+    },
+    {
+      "model": ["3070ti"],
+      "maxPrice": 775,
+      "purchase": false
+    },
+    {
+      "model": ["3080"],
+      "maxPrice": 870,
+      "purchase": false
+    },
+    {
+      "model": ["3080", "ti"],
+      "maxPrice": 1100,
+      "purchase": false
+    },
+    {
+      "model": ["3080ti"],
+      "maxPrice": 1100,
+      "purchase": false
+    },
+    {
+      "model": ["3070"],
+      "maxPrice": 675,
+      "purchase": false
+    }
+  ],
+  [
+    {
+      "model": ["3090"],
+      "maxPrice": 1400,
+      "purchase": false
+    },
+    {
+      "model": ["3090ti"],
+      "maxPrice": 1800,
+      "purchase": false
+    },
+    {
+      "model": ["3090","ti"],
+      "maxPrice": 1800,
+      "purchase": false
+    },
+    {
+      "model": ["3050"],
+      "maxPrice": 240,
+      "purchase": false
+    },
+    {
+      "model": ["1660", "super"],
+      "maxPrice": 240,
+      "purchase": false
+    },
+    {
+      "model": ["1660", "ti"],
+      "maxPrice": 240,
+      "purchase": false
+    },
+    {
+      "model": ["1660super"],
+      "maxPrice": 240,
+      "purchase": false
+    },
+    {
+      "model": ["1660ti"],
+      "maxPrice": 240,
+      "purchase": false
+    },
+    {
+      "model": ["3060"],
+      "maxPrice": 410,
+      "purchase": false
+    },
+    {
+      "model": ["6600"],
+      "maxPrice": 340,
+      "purchase": false
+    },
+    {
+      "model": ["6650","xt"],
+      "maxPrice": 410,
+      "purchase": false
+    },
+    {
+      "model": ["6750","xt"],
+      "maxPrice": 560,
+      "purchase": false
+    },
+    {
+      "model": ["6950","xt"],
+      "maxPrice": 1000,
+      "purchase": false
+    },
+    {
+      "model": ["6650xt"],
+      "maxPrice": 410,
+      "purchase": false
+    },
+    {
+      "model": ["6750xt"],
+      "maxPrice": 560,
+      "purchase": false
+    },
+    {
+      "model": ["6950xt"],
+      "maxPrice": 1000,
+      "purchase": false
+    },
+    {
+      "model": ["6600","xt"],
+      "maxPrice": 390,
+      "purchase": false
+    },
+    {
+      "model": ["6600xt"],
+      "maxPrice": 390,
+      "purchase": false
+    },
+    {
+      "model": ["3060", "ti"],
+      "maxPrice": 500,
+      "purchase": false
+    },
+    {
+      "model": ["3070", "ti"],
+      "maxPrice": 670,
+      "purchase": false
+    },
+    {
+      "model": ["3060ti"],
+      "maxPrice": 500,
+      "purchase": false
+    },
+    {
+      "model": ["3070ti"],
+      "maxPrice": 670,
+      "purchase": false
+    },
+    {
+      "model": ["3080"],
+      "maxPrice": 900,
+      "purchase": false
+    },
+    {
+      "model": ["3080", "ti"],
+      "maxPrice": 1000,
+      "purchase": false
+    },
+    {
+      "model": ["3080ti"],
+      "maxPrice": 1000,
+      "purchase": false
+    },
+    {
+      "model": ["3070"],
+      "maxPrice": 620,
+      "purchase": false
+    },
+    {
+      "model": ["6700","xt"],
+      "maxPrice": 540,
+      "purchase": false
+    },
+    {
+      "model": ["6700xt"],
+      "maxPrice": 540,
+      "purchase": false
+    }
+  ]
+]
