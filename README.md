@@ -74,7 +74,8 @@ If the installation was successful, you should be able to run the following comm
 
 ## Configure bot
 
-Edit the `config.json` file with your user and password settings (if you want to buy at the outlet you must fill it too). Edit `articles.json` to configure GPU prices and enable the `purchase` fields on the GPUs you want.
+Edit the `config.json` file with your user and password settings (if you want to buy at the outlet you must fill it too) and enable `purchase`.
+Edit `articles.json` to configure GPU prices and enable the `purchase` fields on the GPUs you want.
 
 
 ## Running the project
